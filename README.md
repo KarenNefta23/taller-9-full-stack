@@ -11,6 +11,7 @@
 <a href="https://www.figma.com/file/EA9jKtusQIyGawM7yaUcGd/Karen-Vanessa-Villa-Santana?type=design&node-id=5%3A2&mode=design&t=8FNx8HXCGI9oIlkD-1">Link de Figma</a>
 
 <h2>Punto 2: Diseño HTML</h2>
+<img src="./public/images/punto-2.png.png" alt="punto 2">
 
 <h2>Punto 3: Diseño CSS</h2>
 
