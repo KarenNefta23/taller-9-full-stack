@@ -1,0 +1,25 @@
+#marca {
+    color: yellow;
+
+}
+
+#as {
+    color: blueviolet;
+}
+
+.centrado {
+    display: flex;
+    justify-content: center;
+    line-height: 1.5;
+}
+
+.info {
+    display: grid;
+    text-align: justify;
+}
+
+a {
+    font-weight: bold;
+    font-size: 20pt;
+}
+
